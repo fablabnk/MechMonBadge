@@ -1,10 +1,10 @@
 ## Introduction
 
-![2025_11_MechmonBadgeHeroBanner](pictures/2025_11_BadgeRedmeBanner.svg)
+![2025_11_MechmonBadgeHeroBanner](pictures/2025_11_BadgeRedmeBanner.png)
  
 ## Assembly 
 
-![2025_11_MechmonBadgeAssembly](pictures/2025_11_BadgeAssemblyLayout.svg)
+![2025_11_MechmonBadgeAssembly](pictures/2025_11_BadgeAssemblyLayout.png)
 
 ## Finished Board
 
